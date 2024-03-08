@@ -8,6 +8,7 @@
 *6 mm MDF
 *4 mm Acryl
 *PLA
+*Limpistol
 
 ###3D-printing
 Veggen til kontrolleren er printet med tree support, 5mm brim og infill satt til 15%.
@@ -30,3 +31,6 @@ Avhengig av knapper og joystick kan det være at hullene i topp platen skal vær
 |SW               |GP28             |
 
 Koble venstre knapp til GND og GP14, og høyre knapp til GND og GP17.
+
+###Montering av knapper og joystick
+Både knapper og joystick ble festet med limpistol.
