@@ -9,6 +9,9 @@
 *4 mm Acryl
 *PLA
 *Limpistol
+*2 knapper
+*Joystick
+*Raspberry pi pico
 
 ###3D-printing
 Veggen til kontrolleren er printet med tree support, 5mm brim og infill satt til 15%.
@@ -32,5 +35,5 @@ Avhengig av knapper og joystick kan det være at hullene i topp platen skal vær
 
 Koble venstre knapp til GND og GP14, og høyre knapp til GND og GP17.
 
-###Montering av knapper og joystick
-Både knapper og joystick ble festet med limpistol.
+###Montering av pico, knapper og joystick
+Både knapper og joystick ble festet med limpistol. Picoen ble skrudd på en plate som ble limt til bunnplaten til konsollen.
