@@ -29,11 +29,11 @@ Avhengig av knapper og joystick kan det være at hullene i topp platen skal vær
 | --------------- |:---------------:|
 | GND             | GND             |
 | 3V3             | 5V              |
-| VRx             | GP26            |
+| VRx             | GP28            |
 |VRy              |GP27             |
-|SW               |GP28             |
+|SW               |GP26             |
 
-Koble venstre knapp til GND og GP14, og høyre knapp til GND og GP17.
+Koble Knapp B til GND og GP13, og knapp A til GND og GP18.
 
 ###Montering av pico, knapper og joystick
 Både knapper og joystick ble festet med limpistol. Picoen ble skrudd på en plate som ble limt til bunnplaten til konsollen.
